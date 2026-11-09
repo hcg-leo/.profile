@@ -1,41 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="160" viewBox="0 0 320 160">
   <style>
     text { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, Menlo, monospace; font-size: 15px; fill: #D8DEE9; }
-    .dim { fill: #616E88; }
-    .key { fill: #81A1C1; }
+    .key { fill: #7B88A1; }
     .frost { fill: #88C0D0; }
-    .green { fill: #A3BE8C; }
-    .snow { fill: #ECEFF4; }
   </style>
 
-  <rect width="900" height="380" rx="8" fill="#3B4252"/>
+  <text x="0" y="18" class="frost">hcg-leo@main</text>
 
-  <text x="32" y="44"><tspan class="frost">~</tspan> <tspan class="green">❯</tspan> <tspan class="snow">fetch</tspan></text>
-
-  <text x="32" y="92"><tspan class="frost">hcg-leo</tspan><tspan class="dim">@</tspan><tspan class="key">main</tspan></text>
-  <rect x="32" y="104" width="104" height="1.5" fill="#4C566A"/>
-
-  <g>
-    <text x="32"  y="134" class="key">os</text>      <text x="140" y="134">windows 11</text>
-    <text x="32"  y="160" class="key">host</text>    <text x="140" y="160">galaxy book 3 360</text>
-    <text x="32"  y="186" class="key">wm</text>      <text x="140" y="186">autohotkey + altsnap</text>
-    <text x="32"  y="212" class="key">shell</text>   <text x="140" y="212">powershell</text>
-    <text x="32"  y="238" class="key">editor</text>  <text x="140" y="238">zed</text>
-    <text x="32"  y="264" class="key">browser</text> <text x="140" y="264">helium</text>
-    <text x="32"  y="290" class="key">theme</text>   <text x="140" y="290">nord</text>
-  </g>
-
-  <text x="480" y="92" class="frost">keys</text>
-  <rect x="480" y="104" width="38" height="1.5" fill="#4C566A"/>
-
-  <g>
-    <text x="480" y="134" class="key">super + q</text>     <text x="640" y="134">close</text>
-    <text x="480" y="160" class="key">super + w</text>     <text x="640" y="160">maximise</text>
-    <text x="480" y="186" class="key">super + enter</text> <text x="640" y="186">terminal</text>
-    <text x="480" y="212" class="key">super + 1-9</text>   <text x="640" y="212">desktop</text>
-    <text x="480" y="238" class="key">super + lmb</text>   <text x="640" y="238">move</text>
-    <text x="480" y="264" class="key">super + rmb</text>   <text x="640" y="264">resize</text>
-  </g>
-
-  <text x="32" y="338"><tspan class="frost">~</tspan> <tspan class="green">❯</tspan> <tspan class="snow">▍<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+  <text x="0" y="56"  class="key">os</text>      <text x="96" y="56">windows 11</text>
+  <text x="0" y="82"  class="key">wm</text>      <text x="96" y="82">autohotkey + altsnap</text>
+  <text x="0" y="108" class="key">editor</text>  <text x="96" y="108">zed</text>
+  <text x="0" y="134" class="key">browser</text> <text x="96" y="134">helium</text>
 </svg>

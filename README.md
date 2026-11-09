@@ -1,5 +1,7 @@
 > "abandon your fear. look forward. move forward and never stop."
 
+![fetch](https://forgejo.hcg-leo.duckdns.org/hcg-leo/.profile/raw/branch/main/fetch.svg)
+
 ```
 ~
 ├── fedora-server    caddy, forgejo, jellyfin, couchdb, qbittorrent + gluetun
